@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "590951695183",
+    "project_id": "towcar-minsk",
+    "storage_bucket": "towcar-minsk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590951695183:android:e1b039544732445883fb3a",
+        "android_client_info": {
+          "package_name": "com.vitgames.towcar_minsk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590951695183-q19l8qguch14h7c6nl1nst69j47kh786.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vitgames.towcar_minsk",
+            "certificate_hash": "5e9b0d158fa0e6c44dc14028a2f4c83f163253a2"
+          }
+        },
+        {
+          "client_id": "590951695183-tre6oo5cs0h1b13fhld09tc6e5frcr8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxIf-CVT4ukVZeD3YCtB3ascx4a2-_qqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590951695183-tre6oo5cs0h1b13fhld09tc6e5frcr8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
